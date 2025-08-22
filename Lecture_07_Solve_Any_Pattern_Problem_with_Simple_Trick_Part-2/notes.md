@@ -1,17 +1,20 @@
-# Lecture 07: Solve Any Pattern Problem with Simple Trick Part-2
+Lecture 7 – Solve Any Pattern Problem (Part 2)
+Key Concepts:
 
-## Concepts Learned
--
+Right-Angled Triangle: Introduction to triangular star patterns.
 
-## Key Patterns / Formulas
--
+Ascending Number Pattern: Print numbers in increasing form with rows.
 
-## Problems Solved
-- (Link) 
-- (Link) 
+Number Pattern 2: Different variations of number printing.
 
-## Doubts / Revise Later
--
+Reverse Number Pattern: Printing numbers in reverse order row-wise.
 
-## Notes
--
+Alphabet Pattern: Using characters (A, B, C...) to form patterns.
+
+Star Pattern Variations: More complex star shapes beyond rectangles.
+
+Hands-on coding: Practice multiple pattern problems step by step.
+
+Summary
+
+This lecture builds upon Part 1 by exploring more variations of nested loops for triangular shapes, reverse sequences, and alphabet patterns. Students also practiced star and number patterns with both ascending and descending logic. By the end, understanding of nested loops, indexing, and ASCII characters was strengthened through practical coding examples.
