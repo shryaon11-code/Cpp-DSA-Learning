@@ -1,17 +1,25 @@
-# Lecture 04: If Else Statement in c++ || Loop in C++
+# Lecture 4: If-Else Statement in C++ & Loops
 
-## Concepts Learned
--
+## Taking Input from User
+- `cin` is used to take input from the user.
+- Example: Input two numbers and sum them.
 
-## Key Patterns / Formulas
--
+## Operators in C++
+- Basic operators: `+`, `-`, `*`, `/`, `%`
+- Relational operators: `<`, `>`, `<=`, `>=`, `==`, `!=`
+- Logical operators: `&&`, `||`, `!`
 
-## Problems Solved
-- (Link) 
-- (Link) 
+## Type Casting
+- Converting one data type to another.
+- Example: `(float)intValue`
+- Data loss may occur when converting larger to smaller data types.
 
-## Doubts / Revise Later
--
-
-## Notes
--
+## If-Else Condition
+- Allows decision making in programs.
+- Syntax:
+  ```cpp
+  if (condition) {
+      // code
+  } else {
+      // code
+  }
