@@ -1,41 +1,28 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
+# Ignore compiled object files
 *.o
-*.obj
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
+# Ignore compiled binary files
 *.out
-*.app
+*.exe
 
-# debug information files
-*.dwo
+# Ignore precompiled headers
+*.gch
+
+# Ignore debugging files
+*.dSYM/
+*.stackdump
+
+# Ignore logs
+*.log
+
+# Ignore temp/backup files
+*~
+*.swp
+
+# Ignore build folders
+/build/
+/dist/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
