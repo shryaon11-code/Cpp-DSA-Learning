@@ -1,17 +1,15 @@
-# Lecture 03: Start C++ from Zero and Write Your First Program
+# Lecture 3: Start C++ from Zero and Write Your First Program  
 
-## Concepts Learned
--
+## Writing First Program
+- `#include <iostream>` → library for input/output.  
+- `int main()` → entry point of every C++ program.  
+- `cout` → used to print output.  
+- `return 0;` → indicates successful execution.  
 
-## Key Patterns / Formulas
--
-
-## Problems Solved
-- (Link) 
-- (Link) 
-
-## Doubts / Revise Later
--
-
-## Notes
--
+## Variables & Data Types
+- int → integers (5, -10)
+- char → single character ('a', 'B')
+- float → decimal (3.14)
+- double → larger decimal (123.456)
+- bool → true/false
+...
